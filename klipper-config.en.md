@@ -29,7 +29,6 @@ cd ~/klipper_config
 wget https://raw.githubusercontent.com/pavluchenkor/iHeater/refs/heads/main/iHeater.cfg
 ```
 
-
 ### Connecting the iHeater MCU
 
 Edit `iHeater.cfg` and specify the serial ID of your board:

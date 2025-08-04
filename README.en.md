@@ -1,3 +1,6 @@
+[![Docs](https://img.shields.io/badge/docs-view--online-red?logo=readthedocs)](https://docs.idryer.org/iHeater/README_ru/)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/iDryer)
+[![Discord](https://img.shields.io/badge/discord-Join%20Chat-5865F2?logo=discord)](https://discord.gg/hpNDbvxC)
 
 # About the iHeater Project
 
@@ -243,6 +246,8 @@ M141 S0  ; Disable chamber heating
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./license.en.md) file for details.
+
+
 
 >⚠️ **Warning: The use of heating elements and temperature control involves fire and equipment damage risk. Always follow manufacturer recommendations and observe safety precautions.

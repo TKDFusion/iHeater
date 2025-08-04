@@ -1,3 +1,7 @@
+[![Docs](https://img.shields.io/badge/docs-view--online-red?logo=readthedocs)](https://docs.idryer.org/iHeater/README_ru/)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-blue?logo=telegram)](https://t.me/iDryer)
+[![Discord](https://img.shields.io/badge/discord-Join%20Chat-5865F2?logo=discord)](https://discord.gg/hpNDbvxC)
+
 # О проекте iHeater
 
 iHeater - это компактное и мощное решение для создания активной термокамеры в любом 3D-принтере. Он особенно незаменим для моделей с закрытой или проприетарной электроникой, таких как Creality, Bambu Lab, FlashForge, где часто не хватает свободных разъёмов или возможностей для подключения нагревателя, вентилятора и термистора.
@@ -241,7 +245,7 @@ Flash written and verified! jolly good!
 
 
 ## Лицензия
-Данный проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](license.md).
+Данный проект распространяется под лицензией MIT. Подробности смотрите в файле [LICENSE](./license.ru.md).
 
 
 >⚠️  ** Внимание: Использование нагревательных элементов и управление температурой связано с риском возгорания и повреждения оборудования. Всегда следуйте рекомендациям производителя и соблюдайте меры предосторожности.
