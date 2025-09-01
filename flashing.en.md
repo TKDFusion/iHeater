@@ -12,7 +12,7 @@ This document provides instructions for building and flashing the **Katapult** b
 * Linux system (e.g., Raspberry Pi or 3D printer)
 
 !!! warning "If you cannot build and flash firmware on the printer"
-    [Refer to the WSL section](../iHeater/User-mods/software/WSL2_Ubuntu_FF/README.en.md)
+    [Refer to the WSL section](./User-mods/software/WSL2_Ubuntu_FF/README.en.md)
 
 ---
 
@@ -128,6 +128,15 @@ If there are permission issues when flashing, run:
 sudo chmod 777 /dev/serial/by-id/usb-katapult_stm32f042x6_XXXXXXXXXXXXXX-if00
 ```
 
+!!! warning "if something went wrong"
+    erase the memory of the MCU and repeat the previous steps
+    ```
+    touch /tmp/empty.bin
+    ```
+    ```
+    dfu-util -a 0 -d 0483:df11 -s :mass-erase:force -D /tmp/empty.bin
+    ```
+
 ### Notes
 
 * Katapult uses the first 8 KiB of flash, so **set 8 KiB bootloader offset in Klipper**.
@@ -142,7 +151,10 @@ sudo chmod 777 /dev/serial/by-id/usb-katapult_stm32f042x6_XXXXXXXXXXXXXX-if00
 ### Compile the firmware:
 
 ```bash
-cd klipper/
+cd ~/klipper
+```
+
+```
 make menuconfig
 ```
 

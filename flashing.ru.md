@@ -109,6 +109,15 @@ ls /dev/serial/by-id/*
 sudo chmod 777 /dev/serial/by-id/usb-katapult_stm32f042x6_XXXXXXXXXXXXXX-if00
 ``` 
 
+!!! warning "если что-то пошло не так"
+    затрите память МК и повторите предыдущие шаги
+    ```
+    touch /tmp/empty.bin
+    ```
+    ```
+    dfu-util -a 0 -d 0483:df11 -s :mass-erase:force -D /tmp/empty.bin
+    ```
+
 ### Примечания
 
 - Katapult занимает первые 8 КБ Flash, поэтому **в Klipper обязательно указывать смещение 8 KiB**.
@@ -120,7 +129,7 @@ sudo chmod 777 /dev/serial/by-id/usb-katapult_stm32f042x6_XXXXXXXXXXXXXX-if00
 
 ### Компиляция прошивки
 ```
-cd klipper/
+cd ~/klipper
 ```
 ```
 make menuconfig
