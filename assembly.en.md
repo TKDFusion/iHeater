@@ -39,6 +39,7 @@ Video guide: [YouTube](https://youtu.be/1QMtVY0Vx-8?si=Ol1u4Ux9wALDcfe2)
     Since this is a DIY project, and working with heating elements requires a clear understanding of electrical safety, it’s recommended to first test your setup using a KSD9700, and once everything is working correctly, replace it with an appropriate thermal fuse(one suitable option is the RH130 model) for maximum safety.
 
 ![iHeater Assembly](imgweb/iHeater_5489.jpg)
+![iHeater Assembly](imgweb/thermistor.jpg)
 
 ### Installing the Heater
 
