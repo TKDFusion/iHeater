@@ -2,6 +2,7 @@ Controls two iHeaters in tandem to achieve a target chamber temperatur, adding s
   LEFT: Fan status
   CENTER: Target temperature set
   RIGHT: Heater active (power >30%)
+I've also added logic to check if iHeater has AC power. If not, it will kill the heat up process.
 
 Based on the original single iHeater.cfg
 
