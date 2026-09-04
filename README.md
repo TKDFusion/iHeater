@@ -29,7 +29,18 @@ The iHeater board is self-sufficient and includes all the necessary peripherals 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
+Licensed under the Apache License, Version 2.0 — see [LICENSE](LICENSE) and
+[NOTICE](NOTICE).
+
+You may use, modify, distribute and sell this software, including for
+commercial purposes.
+
+The license does not grant rights to the iDryer name. Community projects are
+welcome and the naming policy is permissive — see
+[TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
+
+Hardware design and mechanical documentation are licensed separately and are
+not covered by this license.
 
 !!! danger "Working with heating elements"
     The use of heating elements and temperature control involves a risk of fire and equipment damage. Take all necessary precautions. See the [Safety](safety.md) section for details.
