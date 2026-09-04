@@ -31,7 +31,7 @@ La carte iHeater est autonome et contient toute la périphérie nécessaire pour
 
 ## Licence
 
-Le projet est distribué sous licence MIT. Les détails se trouvent dans le fichier [LICENSE](license.md).
+Le projet est distribué sous licence Apache 2.0. Les détails se trouvent dans le fichier [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
 !!! danger "Travail avec des éléments chauffants"
     L'utilisation d'éléments chauffants et le contrôle de la température comportent un risque d'incendie et de détérioration de l'équipement. Respectez les mesures de précaution. Pour en savoir plus, consultez la section [Sécurité](safety.md).

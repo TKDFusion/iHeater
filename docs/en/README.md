@@ -31,7 +31,7 @@ The iHeater board is self-sufficient and includes all the necessary peripherals 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) file for details.
 
 !!! danger "Working with heating elements"
     The use of heating elements and temperature control involves a risk of fire and equipment damage. Take all necessary precautions. See the [Safety](safety.md) section for details.

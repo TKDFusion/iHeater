@@ -31,7 +31,7 @@ Die iHeater-Platine ist eigenständig und enthält die gesamte notwendige Periph
 
 ## Lizenz
 
-Das Projekt wird unter der MIT-Lizenz veröffentlicht. Details stehen in der Datei [LICENSE](license.md).
+Das Projekt wird unter der Apache-Lizenz 2.0 veröffentlicht. Details stehen in der Datei [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
 !!! danger "Arbeiten mit Heizelementen"
     Die Verwendung von Heizelementen und die Temperaturregelung sind mit Brandgefahr und dem Risiko von Geräteschäden verbunden. Beachten Sie die Vorsichtsmaßnahmen. Weitere Informationen finden Sie im Abschnitt [Sicherheit](safety.md).

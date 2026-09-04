@@ -31,7 +31,7 @@ iHeater 基板は自己完結型で、スタンドアロン機器として使用
 
 ## ライセンス
 
-このプロジェクトは MIT ライセンスの下で配布されています。詳細は [LICENSE](license.md) ファイルを参照してください。
+このプロジェクトは Apache License 2.0 の下で配布されています。詳細は [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) ファイルを参照してください。
 
 !!! danger "加熱要素の取り扱い"
     加熱要素の使用および温度制御には、火災や機器損傷のリスクがあります。安全上の注意を守ってください。詳細は [安全性](safety.md) セクションを参照してください。

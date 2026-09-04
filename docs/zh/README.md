@@ -31,7 +31,7 @@ iHeater 板是自足的，包含作为独立设备使用所需的全部外围电
 
 ## 许可证
 
-本项目基于 MIT 许可证发布。详情见 [LICENSE](license.md) 文件。
+本项目基于 Apache License 2.0 发布。详情见 [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) 文件。
 
 !!! danger "使用加热元件"
     使用加热元件和温度控制存在起火和设备损坏风险。请遵守安全预防措施。更多信息见 [安全](safety.md) 章节。
