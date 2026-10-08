@@ -75,5 +75,5 @@ Darüber hinaus ist im iHeater-Modell ein spezieller Adapter vorgesehen, der ans
 ### **Wo finde ich die Dokumentation?**
 Die Dokumentation ist hier verfügbar:
 
-- [GitHub-Projekt](https://github.com/idryer)
+- [GitHub-Projekt](https://github.com/pavluchenkor/iHeater)
 - [docs.idryer.org](https://docs.idryer.org)

@@ -75,5 +75,5 @@ Additionally, iHeater includes a special adapter that replaces **C7/C8 connector
 ### **Where can I find documentation?**
 Documentation is available here:
 
-- [Project GitHub](https://github.com/idryer)
+- [Project GitHub](https://github.com/pavluchenkor/iHeater)
 - [docs.idryer.org](https://docs.idryer.org)

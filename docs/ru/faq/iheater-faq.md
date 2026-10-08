@@ -75,5 +75,5 @@ iHeater потребляет около **100 мА**. Дополнительны
 ### **Где найти документацию?**
 Документация доступна здесь:
 
-- [GitHub проекта](https://github.com/idryer)
+- [GitHub проекта](https://github.com/pavluchenkor/iHeater)
 - [docs.idryer.org](https://docs.idryer.org)
