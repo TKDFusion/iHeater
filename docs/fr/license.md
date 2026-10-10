@@ -1,9 +1,31 @@
-<!-- i18n-placeholder: true -->
+# Licence
 
-# Translation wanted
+Les matériaux du projet iHeater — code, fichiers de configuration et fichiers CAO — sont distribués sous la licence GNU General Public License version 3 ou ultérieure (GPL-3.0-or-later). Le texte complet se trouve dans le fichier [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-This page is not available in this language yet.
+## Ce qui est autorisé
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+- Utiliser les matériaux à toute fin, y compris commerciale.
+- Modifier les matériaux.
+- Distribuer les versions originales et modifiées.
 
-Thank you for helping make the documentation available to more makers.
+## Conditions de distribution
+
+- Conservez la mention de l'auteur et le texte de la licence.
+- Distribuez les versions modifiées sous la même licence.
+- Fournissez aux destinataires les fichiers sources de vos modifications.
+
+## Marque
+
+Le nom iDryer n'est pas couvert par la licence. Les règles d'utilisation du nom se trouvent dans [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
+
+## Circuits imprimés
+
+Les circuits imprimés et les schémas ne sont pas publiés.
+
+## Exclusion de garantie
+
+Les matériaux sont fournis « en l'état », sans aucune garantie.
+
+## Contact
+
+<https://t.me/pavluchenkor>

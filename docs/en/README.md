@@ -13,6 +13,8 @@ Two versions are available:
 
 ![iHeater](../img/iHeater_promo.png)
 
+[You can make a preliminary estimate using this calculator](https://docs.google.com/spreadsheets/d/1u6XrWLFZGOUnRlFPjjGsJB_GLuFFIs3fFWLCp2-K8gc/edit?usp=sharing)
+
 ## Usage Options
 
 ### Under Klipper Control
@@ -29,7 +31,7 @@ The iHeater board is self-sufficient and includes all the necessary peripherals 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](license.md) file for details.
+This project is licensed under the GNU GPL version 3 or later. See the [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) file for details.
 
 !!! danger "Working with heating elements"
     The use of heating elements and temperature control involves a risk of fire and equipment damage. Take all necessary precautions. See the [Safety](safety.md) section for details.

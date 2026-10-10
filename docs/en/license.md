@@ -1,28 +1,31 @@
-This license does not override other licenses but complements them.
+# License
 
-### License for Using Project Materials
-Private Use
-All materials of this project are provided free of charge for personal use. You are allowed to copy, use, and study the materials for your own needs without any restrictions.
+The iHeater project materials — code, configuration files and CAD files — are distributed under the GNU General Public License version 3 or later (GPL-3.0-or-later). The full text is in the [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) file.
 
-### Modification and Distribution
-You are permitted to modify the materials of the project. However, when distributing modified versions, you are required to:
+## Permissions
 
-### Credit the original author of the materials.
-Publish the source code of your modifications under the same license.
-Accompany the modified versions with the text of this license.
+- Use the materials for any purpose, including commercial.
+- Modify the materials.
+- Distribute original and modified versions.
 
-### Commercial Use
-To use the materials of the project for commercial purposes, you must first contact the author and obtain their permission. Contact information is provided in the project files or official sources.
+## Distribution terms
 
-### Disclaimer
-The project materials are provided "as is." The author is not liable for any direct or indirect damages resulting from their use.
+- Keep the attribution and the license text.
+- Distribute modified versions under the same license.
+- Provide recipients with the source files of your changes.
 
-### Acceptance of the License
-By using the project materials, you confirm your agreement to the terms of this license.
+## Trademark
 
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+The iDryer name is not covered by the license. The naming policy is in [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+## PCBs
 
-### Contact me 
-https://t.me/pavluchenkor
+PCBs and schematics are not published.
+
+## Disclaimer
+
+The materials are provided "as is", without warranty of any kind.
+
+## Contact
+
+<https://t.me/pavluchenkor>

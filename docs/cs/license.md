@@ -1,9 +1,31 @@
-<!-- i18n-placeholder: true -->
+# Licence
 
-# Translation wanted
+Materiály projektu iHeater — kód, konfigurační soubory a CAD soubory — jsou šířeny pod licencí GNU General Public License verze 3 nebo novější (GPL-3.0-or-later). Úplný text je v souboru [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-This page is not available in this language yet.
+## Co je povoleno
 
-You can help the iDryer project by translating this article. Please use the English or Russian version as the source, check the meaning carefully, and submit your translation as a pull request to the documentation repository.
+- Používat materiály k jakémukoli účelu, včetně komerčního.
+- Upravovat materiály.
+- Šířit původní i upravené verze.
 
-Thank you for helping make the documentation available to more makers.
+## Podmínky šíření
+
+- Zachovejte uvedení autora a text licence.
+- Upravené verze šiřte pod stejnou licencí.
+- Poskytněte příjemcům zdrojové soubory svých úprav.
+
+## Ochranná známka
+
+Na název iDryer se licence nevztahuje. Pravidla používání názvu jsou v [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
+
+## Desky plošných spojů
+
+Desky plošných spojů a schémata nejsou zveřejněny.
+
+## Vyloučení záruky
+
+Materiály jsou poskytovány „tak, jak jsou“, bez jakékoli záruky.
+
+## Kontakt
+
+<https://t.me/pavluchenkor>
