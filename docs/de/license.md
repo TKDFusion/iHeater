@@ -1,28 +1,31 @@
-Diese Lizenz ersetzt keine anderen Lizenzen, sondern ergänzt sie.
+# Lizenz
 
-### Lizenz für die Nutzung von Projektmaterialien
-Private Nutzung
-Alle Materialien dieses Projekts werden für die persönliche Nutzung kostenlos bereitgestellt. Sie dürfen die Materialien ohne Einschränkungen für Ihre eigenen Zwecke kopieren, verwenden und studieren.
+Die Materialien des Projekts iHeater — Code, Konfigurationsdateien und CAD-Dateien — werden unter der GNU General Public License Version 3 oder später (GPL-3.0-or-later) verbreitet. Der vollständige Text steht in der Datei [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-### Änderung und Verbreitung
-Sie dürfen die Materialien des Projekts ändern. Bei der Verbreitung geänderter Versionen sind Sie jedoch verpflichtet:
+## Erlaubt
 
-### Den ursprünglichen Autor der Materialien zu nennen.
-Den Quellcode Ihrer Änderungen unter derselben Lizenz zu veröffentlichen.
-Die geänderten Versionen mit dem Text dieser Lizenz zu versehen.
+- Die Materialien für beliebige Zwecke nutzen, auch kommerziell.
+- Die Materialien ändern.
+- Originale und geänderte Versionen weitergeben.
 
-### Kommerzielle Nutzung
-Um die Materialien des Projekts für kommerzielle Zwecke zu nutzen, müssen Sie zuerst den Autor kontaktieren und dessen Erlaubnis einholen. Kontaktinformationen sind in den Projektdateien oder offiziellen Quellen angegeben.
+## Bedingungen für die Weitergabe
 
-### Haftungsausschluss
-Die Projektmaterialien werden "wie besehen" bereitgestellt. Der Autor haftet nicht für direkte oder indirekte Schäden, die aus ihrer Nutzung entstehen.
+- Behalten Sie die Urheberangabe und den Lizenztext bei.
+- Geben Sie geänderte Versionen unter derselben Lizenz weiter.
+- Stellen Sie den Empfängern die Quelldateien Ihrer Änderungen bereit.
 
-### Annahme der Lizenz
-Durch die Nutzung der Projektmaterialien bestätigen Sie Ihr Einverständnis mit den Bedingungen dieser Lizenz.
+## Marke
 
-Creative Commons Namensnennung-Nicht kommerziell-Weitergabe unter gleichen Bedingungen 3.0 Lizenz
+Der Name iDryer ist von der Lizenz nicht abgedeckt. Die Regeln zur Namensnutzung stehen in [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
 
-Namensnennung-Nicht kommerziell-Weitergabe unter gleichen Bedingungen 3.0 Unported (CC BY-NC-SA 3.0)
+## Leiterplatten
 
-### Kontakt
-https://t.me/pavluchenkor
+Leiterplatten und Schaltpläne sind nicht veröffentlicht.
+
+## Haftungsausschluss
+
+Die Materialien werden ohne jegliche Gewährleistung bereitgestellt.
+
+## Kontakt
+
+<https://t.me/pavluchenkor>

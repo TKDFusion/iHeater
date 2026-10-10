@@ -1,28 +1,31 @@
-Cette licence ne remplace pas les autres licences, mais les complète.
+# Licence
 
-### Licence d'utilisation des matériaux du projet
-Utilisation privée
-Tous les matériaux de ce projet sont fournis gratuitement pour un usage personnel. Vous êtes autorisé à copier, utiliser et étudier les matériaux pour vos propres besoins, sans aucune restriction.
+Les matériaux du projet iHeater — code, fichiers de configuration et fichiers CAO — sont distribués sous la licence GNU General Public License version 3 ou ultérieure (GPL-3.0-or-later). Le texte complet se trouve dans le fichier [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-### Modification et distribution
-Vous êtes autorisé à modifier les matériaux du projet. Cependant, lors de la distribution de versions modifiées, vous devez :
+## Ce qui est autorisé
 
-### Créditer l'auteur original des matériaux.
-Publier le code source de vos modifications sous la même licence.
-Accompagner les versions modifiées du texte de cette licence.
+- Utiliser les matériaux à toute fin, y compris commerciale.
+- Modifier les matériaux.
+- Distribuer les versions originales et modifiées.
 
-### Utilisation commerciale
-Pour utiliser les matériaux du projet à des fins commerciales, vous devez d'abord contacter l'auteur et obtenir son autorisation. Les coordonnées sont fournies dans les fichiers du projet ou dans les sources officielles.
+## Conditions de distribution
 
-### Clause de non-responsabilité
-Les matériaux du projet sont fournis "tels quels". L'auteur n'est pas responsable des dommages directs ou indirects résultant de leur utilisation.
+- Conservez la mention de l'auteur et le texte de la licence.
+- Distribuez les versions modifiées sous la même licence.
+- Fournissez aux destinataires les fichiers sources de vos modifications.
 
-### Acceptation de la licence
-En utilisant les matériaux du projet, vous confirmez votre accord avec les conditions de cette licence.
+## Marque
 
-Licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+Le nom iDryer n'est pas couvert par la licence. Les règles d'utilisation du nom se trouvent dans [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+## Circuits imprimés
 
-### Me contacter
-https://t.me/pavluchenkor
+Les circuits imprimés et les schémas ne sont pas publiés.
+
+## Exclusion de garantie
+
+Les matériaux sont fournis « en l'état », sans aucune garantie.
+
+## Contact
+
+<https://t.me/pavluchenkor>

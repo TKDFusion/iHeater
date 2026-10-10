@@ -31,7 +31,7 @@ iHeater 板是自給自足的，包含作為獨立設備使用所需的所有必
 
 ## 許可證
 
-該項目以 Apache License 2.0 授權分發。詳情見 [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) 文件。
+該項目以 GNU GPL 第 3 版或更新版本授權分發。詳情見 [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE) 文件。
 
 !!! danger "使用加熱元件"
     使用加熱元件和溫度控制與火災和設備損害的風險相關聯。遵守安全預防措施。更多信息見 [安全](safety.md) 部分。

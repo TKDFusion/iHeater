@@ -1,28 +1,31 @@
-Esta licença não substitui outras licenças, mas as complementa.
+# Licença
 
-### Licença para Uso dos Materiais do Projeto
-Uso privado
-Todos os materiais deste projeto são fornecidos gratuitamente para uso pessoal. Você tem permissão para copiar, usar e estudar os materiais para suas próprias necessidades, sem quaisquer restrições.
+Os materiais do projeto iHeater — código, ficheiros de configuração e ficheiros CAD — são distribuídos sob a GNU General Public License versão 3 ou posterior (GPL-3.0-or-later). O texto completo está no ficheiro [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-### Modificação e Distribuição
-Você tem permissão para modificar os materiais do projeto. No entanto, ao distribuir versões modificadas, você deve:
+## O que é permitido
 
-### Dar crédito ao autor original dos materiais.
-Publicar o código-fonte de suas modificações sob a mesma licença.
-Acompanhar as versões modificadas com o texto desta licença.
+- Utilizar os materiais para qualquer fim, incluindo comercial.
+- Modificar os materiais.
+- Distribuir as versões originais e modificadas.
 
-### Uso Comercial
-Para usar os materiais do projeto para fins comerciais, você deve primeiro entrar em contato com o autor e obter sua permissão. As informações de contato são fornecidas nos arquivos do projeto ou em fontes oficiais.
+## Condições de distribuição
 
-### Isenção de Responsabilidade
-Os materiais do projeto são fornecidos "no estado em que se encontram." O autor não se responsabiliza por quaisquer danos diretos ou indiretos resultantes de seu uso.
+- Mantenha a atribuição e o texto da licença.
+- Distribua as versões modificadas sob a mesma licença.
+- Forneça aos destinatários os ficheiros-fonte das suas alterações.
 
-### Aceitação da Licença
-Ao usar os materiais do projeto, você confirma sua concordância com os termos desta licença.
+## Marca
 
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+O nome iDryer não é abrangido pela licença. As regras de utilização do nome estão em [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+## Placas de circuito
 
-### Entre em contato comigo
-https://t.me/pavluchenkor
+As placas de circuito e os esquemas não estão publicados.
+
+## Exclusão de garantias
+
+Os materiais são fornecidos «tal como estão», sem qualquer garantia.
+
+## Contacto
+
+<https://t.me/pavluchenkor>

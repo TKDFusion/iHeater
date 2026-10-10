@@ -1,28 +1,31 @@
-This license does not override other licenses but complements them.
+# Лицензия
 
-### License for Using Project Materials
-Private Use
-All materials of this project are provided free of charge for personal use. You are allowed to copy, use, and study the materials for your own needs without any restrictions.
+Материалы проекта iHeater — код, конфигурации и CAD-файлы — распространяются под лицензией GNU General Public License версии 3 или новее (GPL-3.0-or-later). Полный текст — в файле [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-### Modification and Distribution
-You are permitted to modify the materials of the project. However, when distributing modified versions, you are required to:
+## Что разрешено
 
-### Credit the original author of the materials.
-Publish the source code of your modifications under the same license.
-Accompany the modified versions with the text of this license.
+- Использовать материалы в любых целях, включая коммерческие.
+- Изменять материалы.
+- Распространять исходные и изменённые версии.
 
-### Commercial Use
-To use the materials of the project for commercial purposes, you must first contact the author and obtain their permission. Contact information is provided in the project files or official sources.
+## Условия распространения
 
-### Disclaimer
-The project materials are provided "as is." The author is not liable for any direct or indirect damages resulting from their use.
+- Сохраняйте указание авторства и текст лицензии.
+- Распространяйте изменённые версии под той же лицензией.
+- Предоставляйте получателю исходные файлы ваших изменений.
 
-### Acceptance of the License
-By using the project materials, you confirm your agreement to the terms of this license.
+## Товарный знак
 
-Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License
+Имя iDryer лицензией не покрывается. Правила использования имени — в [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+## Печатные платы
 
-### Contact me 
-https://t.me/pavluchenkor
+Печатные платы и схемы не опубликованы.
+
+## Отказ от гарантий
+
+Материалы предоставляются «как есть», без каких-либо гарантий.
+
+## Контакты
+
+<https://t.me/pavluchenkor>

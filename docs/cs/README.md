@@ -31,7 +31,7 @@ Deska iHeater je soběstačná a obsahuje veškeré potřebné periferie pro pou
 
 ## Licence
 
-Projekt je šířen pod licencí Apache 2.0. Podrobnosti najdete v souboru [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
+Projekt je šířen pod licencí GNU GPL verze 3 nebo novější. Podrobnosti najdete v souboru [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
 !!! danger "Práce s topnými prvky"
     Používání topných prvků a řízení teploty je spojeno s rizikem požáru a poškození zařízení. Dodržujte bezpečnostní opatření. Více v části [Bezpečnost](safety.md).

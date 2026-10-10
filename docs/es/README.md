@@ -31,7 +31,7 @@ La placa iHeater es autosuficiente e incluye toda la periferia necesaria para ut
 
 ## Licencia
 
-El proyecto se distribuye bajo la licencia Apache 2.0. Más detalles en el archivo [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
+El proyecto se distribuye bajo la licencia GNU GPL versión 3 o posterior. Más detalles en el archivo [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
 !!! danger "Trabajo con elementos calefactores"
     El uso de elementos calefactores y el control de temperatura conllevan riesgo de incendio y daños al equipo. Tome medidas de precaución. Más detalles en la sección [Seguridad](safety.md).

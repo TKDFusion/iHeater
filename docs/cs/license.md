@@ -1,28 +1,31 @@
-Tato licence nenahrazuje jiné licence, ale doplňuje je.
+# Licence
 
-### Licence pro používání materiálů projektu
-Soukromé použití
-Všechny materiály tohoto projektu jsou poskytovány zdarma pro osobní použití. Materiály smíte bez omezení kopírovat, používat a studovat pro své vlastní potřeby.
+Materiály projektu iHeater — kód, konfigurační soubory a CAD soubory — jsou šířeny pod licencí GNU General Public License verze 3 nebo novější (GPL-3.0-or-later). Úplný text je v souboru [LICENSE](https://github.com/pavluchenkor/iHeater/blob/main/LICENSE).
 
-### Úpravy a distribuce
-Materiály projektu smíte upravovat. Při distribuci upravených verzí však musíte:
+## Co je povoleno
 
-### Uvést původního autora materiálů.
-Zveřejnit zdrojový kód svých úprav pod stejnou licencí.
-Doplnit upravené verze textem této licence.
+- Používat materiály k jakémukoli účelu, včetně komerčního.
+- Upravovat materiály.
+- Šířit původní i upravené verze.
 
-### Komerční použití
-Chcete-li materiály projektu používat ke komerčním účelům, musíte nejprve kontaktovat autora a získat jeho svolení. Kontaktní informace jsou uvedeny v souborech projektu nebo v oficiálních zdrojích.
+## Podmínky šíření
 
-### Vyloučení odpovědnosti
-Materiály projektu jsou poskytovány „tak, jak jsou“. Autor nenese odpovědnost za žádné přímé ani nepřímé škody vzniklé jejich použitím.
+- Zachovejte uvedení autora a text licence.
+- Upravené verze šiřte pod stejnou licencí.
+- Poskytněte příjemcům zdrojové soubory svých úprav.
 
-### Přijetí licence
-Používáním materiálů projektu potvrzujete svůj souhlas s podmínkami této licence.
+## Ochranná známka
 
-Licence Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+Na název iDryer se licence nevztahuje. Pravidla používání názvu jsou v [TRADEMARKS.md](https://github.com/pavluchenkor/idryer-core/blob/main/TRADEMARKS.md).
 
-Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
+## Desky plošných spojů
 
-### Kontaktujte mě
-https://t.me/pavluchenkor
+Desky plošných spojů a schémata nejsou zveřejněny.
+
+## Vyloučení záruky
+
+Materiály jsou poskytovány „tak, jak jsou“, bez jakékoli záruky.
+
+## Kontakt
+
+<https://t.me/pavluchenkor>
